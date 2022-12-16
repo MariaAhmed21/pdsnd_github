@@ -4,10 +4,10 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
+bikeshare 
 
 ### Description
-Describe what your project is about and what it does
+compare the system usage between three large cities
 
 ### Files used
 Include the files used
@@ -15,13 +15,4 @@ Include the files used
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
-<<<<<<< HEAD
-##matia edits
-1
-2
-||||||| a3205eb
-=======
-###my updates
-ate 1
-ate 2
->>>>>>> refactoring
+
