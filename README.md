@@ -15,6 +15,13 @@ Include the files used
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+<<<<<<< HEAD
 ##matia edits
 1
 2
+||||||| a3205eb
+=======
+###my updates
+ate 1
+ate 2
+>>>>>>> refactoring
