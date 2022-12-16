@@ -3,7 +3,7 @@
 ### Date created
 16 december 2022
 
-### Project Titl 
+### Project Title 
 explore US bicycle sharing system
 
 
@@ -17,6 +17,4 @@ major cities in the United States—Chicago, New York City, and Washington.
 2- https://ride.citibikenyc.com/system-data
 3- https://ride.capitalbikeshare.com/system-data
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
